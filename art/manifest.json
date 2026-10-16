@@ -1,0 +1,21 @@
+{
+ "width": 520,
+ "height": 488,
+ "blink": {
+  "x": 213,
+  "y": 104,
+  "width": 102,
+  "height": 52
+ },
+ "moods": {
+  "idle": "idle.webp",
+  "thinking": "thinking.webp",
+  "working": "working.webp",
+  "happy": "happy.webp",
+  "pat": "pat.webp",
+  "worried": "worried.webp",
+  "dizzy": "dizzy.webp",
+  "surprised": "surprised.webp",
+  "sleepy": "sleepy.webp"
+ }
+}

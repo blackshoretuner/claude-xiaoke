@@ -1,0 +1,15 @@
+# 个人数据：好感度、设置、自定义语录、会话状态、日志
+data/
+
+# 语音：模型配置和录好的台词都不发布，自己训练、自己录
+voice/lines/
+voice/gsv.json
+voice/gsv_server.py
+voice/.venv/
+voice/models/
+
+# 编译产物：用 desktop/build.cmd 自己编
+desktop/*.exe
+
+# Claude Code 自带的类型声明
+.claude-plugin/types/

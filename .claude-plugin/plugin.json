@@ -1,0 +1,9 @@
+{
+  "name": "xiaoke",
+  "version": "0.1.0",
+  "description": "看板娘小克：陪你看 Claude 的剩余额度，会思考、会干活、会被摸头。",
+  "author": {
+    "name": "blackshoretuner"
+  },
+  "types": "./types/index.d.ts"
+}

@@ -1,0 +1,21 @@
+{
+ "width": 1040,
+ "height": 977,
+ "blink": {
+  "x": 425,
+  "y": 209,
+  "width": 205,
+  "height": 104
+ },
+ "moods": {
+  "idle": "idle.png",
+  "thinking": "thinking.png",
+  "working": "working.png",
+  "happy": "happy.png",
+  "pat": "pat.png",
+  "worried": "worried.png",
+  "dizzy": "dizzy.png",
+  "surprised": "surprised.png",
+  "sleepy": "sleepy.png"
+ }
+}

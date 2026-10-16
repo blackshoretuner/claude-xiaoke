@@ -1,0 +1,11 @@
+{
+  "name": "my-voice",
+  "title": "我的声线（GPT-SoVITS）",
+  "root": "C:/path/to/GPT-SoVITS",
+  "sovits": "SoVITS_weights_v3/my_voice.pth",
+  "gpt": "GPT_weights_v3/my_voice.ckpt",
+  "ref": "dataset/my_voice/ref.wav",
+  "ref_text": "参考音频里说的那句话。",
+  "sample_steps": 32,
+  "synth": "C:/path/to/synth.py"
+}
